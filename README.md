@@ -9,6 +9,7 @@
 Hey there! I'm a **pixel artist** and **traditional doodler** from a cozy village in Ukraine :D  
 Ever since I grabbed my first gaming console at the tender age of 4.5, I’ve been *obsessed* with video games.. 
 They spark my work ! pixel art ,sketches, and my coding passion 
+
 I’m all about capturing that 8-bit nostalgia in my creations, whether it’s a sprite or a script 
 
 All the art you see here is handmade by me !!
