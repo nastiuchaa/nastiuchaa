@@ -1,23 +1,19 @@
 
 <div align="center">
-  <h1>✨ Welcome to My Pixelated World! ✨</h1>
-  <img src="https://github.com/user-attachments/assets/46e7c7d9-f6a1-4c6a-aa00-632bb3c456eb" alt="Pixel Art Banner" width="600"/>
+  <h1>────୨ৎ────</h1>
+
 </div>
 
-## 🎮 About Me
+## About Me ⊹ ࣪ ˖
 
-Hey there! I'm a **pixel artist** and **traditional doodler** from a cozy village in Ukraine. 🎨  
-Ever since I grabbed my first gaming console at the tender age of 4.5, I’ve been *obsessed* with video games! They fuel my creativity, from crafting nostalgic 8-bit pixel art to sketching vibrant designs and writing code that brings ideas to life.  
+Hey there! I'm a **pixel artist** and **traditional doodler** from a cozy village in Ukraine :D  
+Ever since I grabbed my first gaming console at the tender age of 4.5, I’ve been *obsessed* with video games.. They spark my work ! pixel art ,sketches, and my coding passion 
+I’m all about capturing that 8-bit nostalgia in my creations, whether it’s a sprite or a script 
 
-All the art you see here is handmade by me with love and a sprinkle of retro magic! 🕹️
+All the art you see here is handmade by me ^^
 
-## 🚀 What I Do
-- **Pixel Art**: Creating retro-inspired sprites and scenes that capture the charm of classic games.  
-- **Traditional Art**: Sketching and doodling to bring my imagination to paper.  
-- **Coding**: Building projects with a focus on fun, functional, and creative scripts.  
-
-## 📬 Get in Touch!
-Let’s connect and talk about games, art, or code! Find me here:  
+## Get in Touch! ⊹ ࣪ ˖
+Let’s connect and talk about games, art.. or code!   
 <p align="center">
   <a href="https://instagram.com/nastiuchaa" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
@@ -27,7 +23,7 @@ Let’s connect and talk about games, art, or code! Find me here:
   </a>
 </p>
 
-## 🛠️ Languages & Tools
+## Languages & Tools ⊹ ࣪ ˖
 Here’s what I use to create my pixelated masterpieces and code:  
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank">
