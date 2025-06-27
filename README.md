@@ -6,7 +6,7 @@
 
 ## About Me ⊹ ࣪ ˖
 
-Hey there! I'm a **pixel artist** and **traditional doodler** from a cozy village in Ukraine :D  
+Hi! I'm a **pixel artist** and **traditional doodler** from a cozy village in Ukraine :D  
 Ever since I grabbed my first gaming console at the tender age of 4.5, I’ve been *obsessed* with video games.. 
 They spark my work ! pixel art ,sketches, and my coding passion 
 
