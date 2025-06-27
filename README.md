@@ -10,7 +10,6 @@ I’m all about capturing that 8-bit nostalgia in my creations, whether it’s a
 
 ##Get in Touch!
 
-![image](https://github.com/user-attachments/assets/5a66ffe4-9067-4588-879f-889f3fd27bec)
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Get in Touch!![image](https://github.com/user-attachments/assets/46e7c7d9-f6a1-4c6a-aa00-632bb3c456eb)
